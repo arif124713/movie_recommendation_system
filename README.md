@@ -2,7 +2,7 @@
 
 This project is a **content-based movie recommender system** built using Python and deployed as a web application. It recommends similar movies based on user input using movie metadata like genres, keywords, cast, and crew.
 
-🚀 **Live Demo (optional)**: *[will be added soon]*  
+🚀 **Live Demo **: https://movie-recommendation-system-m3js.onrender.com/
 📁 **Tech Stack**: Python, Pandas, Scikit-learn, Streamlit
 
 ---
